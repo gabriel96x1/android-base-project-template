@@ -7,7 +7,7 @@ import com.gaps.myapplication.data.local.ModelDb
 object LocalPersistence {
 
     fun getModelDao(context: Context): ModelDao {
-        return ModelDb.getInstance(context).modelDao()
+        return ModelDb.getInstance(context).dao()
     }
 
 }

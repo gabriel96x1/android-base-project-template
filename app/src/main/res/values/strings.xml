@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">android_training</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_3">Activity3</string>
 </resources>
