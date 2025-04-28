@@ -18,7 +18,7 @@
             android:label="@string/title_activity_3"
             android:theme="@style/Theme.Android_training" />
         <activity
-            android:name=".MainActivity2"
+            android:name=".Activity2"
             android:exported="false"
             android:label="@string/title_activity_main2"
             android:theme="@style/Theme.Android_training" />
